@@ -1,1 +1,24 @@
 2025-06-01 07:56:14,193 - INFO - GrabCut GUI initialized
+2025-06-01 08:11:09,605 - INFO - GrabCut GUI initialized
+2025-06-01 08:12:55,234 - INFO - GrabCut GUI initialized
+2025-06-01 08:14:03,033 - INFO - Selected image: C:/Users/hacks/OneDrive/사진/ck_tica1010005154_l-580x387.jpg
+2025-06-01 08:14:07,205 - INFO - Selected image: C:/Users/hacks/OneDrive/사진/1Z488A9W20_7.jpg
+2025-06-01 08:15:06,503 - INFO - GrabCut GUI initialized
+2025-06-01 08:15:09,705 - INFO - Selected image: C:/Users/hacks/OneDrive/사진/1Z488A9W20_7.jpg
+2025-06-01 08:15:10,071 - INFO - Image loaded successfully
+2025-06-01 08:15:12,818 - INFO - Rectangle selected: (131, 13, 477, 399)
+2025-06-01 08:15:13,394 - INFO - Running GrabCut...
+2025-06-01 08:15:14,194 - INFO - GrabCut completed successfully
+2025-06-01 08:15:18,968 - INFO - Result saved: C:/Users/hacks/OneDrive/사진/grabcut_result_20250601_081515.png
+2025-06-01 08:15:24,485 - INFO - Selected image: C:/Users/hacks/OneDrive/사진/2023011001501_0.jpg
+2025-06-01 08:15:24,520 - INFO - Image loaded successfully
+2025-06-01 08:15:27,273 - INFO - Rectangle selected: (54, 62, 448, 423)
+2025-06-01 08:15:28,218 - INFO - Running GrabCut...
+2025-06-01 08:15:29,664 - INFO - GrabCut completed successfully
+2025-06-01 08:15:35,277 - INFO - Result saved: C:/Users/hacks/OneDrive/사진/grabcut_result_20250601_081533.png
+2025-06-01 08:15:39,330 - INFO - Selected image: C:/Users/hacks/OneDrive/사진/ck_tica1010005154_l-580x387.jpg
+2025-06-01 08:15:39,347 - INFO - Image loaded successfully
+2025-06-01 08:15:41,433 - INFO - Rectangle selected: (161, 31, 528, 413)
+2025-06-01 08:15:42,802 - INFO - Running GrabCut...
+2025-06-01 08:15:43,718 - INFO - GrabCut completed successfully
+2025-06-01 08:15:48,526 - INFO - Result saved: C:/Users/hacks/OneDrive/사진/grabcut_result_20250601_081546.png
